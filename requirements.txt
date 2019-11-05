@@ -1,1 +1,1 @@
-datajoint==12.0.1
+datajoint==0.12.1
